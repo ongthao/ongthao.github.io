@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todo-delete-btn {
+  margin-left: 5px;
+}
+
+.todo-li {
+  margin: 10px 0px;
+}
